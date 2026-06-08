@@ -175,6 +175,23 @@ You set down your quill. You breathe. You stay.`,
     shTags: ['aesthetic','ambient','ambient shorts','cozy','dark academia','fantasy','fantasy mashup','harry potter','hogwarts','las vegas','vegas','lo-fi','lofi shorts','pov','realm blender','relaxing','shorts','study music','study music shorts','study with me'],
     hashtags: '#HarryPotter #Hogwarts #LasVegas #Fantasy',
   },
+  'hogwarts-express-tattoo': {
+    place: 'Hogwarts Express Tattoo Parlor', lfHours: 1,
+    shTitle: 'POV: A Tattoo Parlor on the Hogwarts Express #Shorts',
+    shHook: 'Steam, ink, old magic. What would you get?',
+    lfStory: `You opened the wrong door.
+
+The train still rolls slow through the highlands. Steam still drifts past the windows. The brass lamps still sway with the rhythm of the tracks.
+
+But this car has been turned over to a tattoo parlor — a leather chair under a warm pendant light, ink in glass bottles, sketchbooks of magical sigils stacked on the side table. The autoclave hums quietly in the corner.
+
+Outside, the Scottish hills slide past in the late afternoon gold.
+
+You settle into the chair. You breathe. You stay.`,
+    lfTags: ['1 hour ambient','ambient','calm music','concentration music','cozy','dark academia','deep focus','fantasy ambient','focus music','harry potter ambient','hogwarts','hogwarts express','tattoo','train ambient','realm blender','relaxing','sleep music','study music','study with me'],
+    shTags: ['aesthetic','ambient','ambient shorts','cozy','dark academia','fantasy','fantasy mashup','harry potter','hogwarts','hogwarts express','tattoo','train','lo-fi','lofi shorts','pov','realm blender','relaxing','shorts','study music','study music shorts','study with me'],
+    hashtags: '#HarryPotter #HogwartsExpress #Tattoo #Fantasy',
+  },
   'hogwarts-aurora': {
     place: 'Wizarding Library Under the Northern Lights', lfHours: 1,
     shTitle: 'POV: A Wizarding Library Under the Northern Lights #Shorts',
