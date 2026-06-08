@@ -1,0 +1,36 @@
+# ============================================================
+# Realm Blender .gitignore
+# Code-only repo. All raw assets stay local — regeneratable.
+# ============================================================
+
+# --- dependencies ---
+node_modules/
+
+# --- OAuth + credentials (NEVER commit) ---
+uploader/client_secret.json
+uploader/token.json
+uploader/notify-config.json
+
+# --- generated state files ---
+uploader/sub-count.json
+uploader/upload-index.json
+uploader/full-video-table.json
+
+# --- raw video / audio / image assets (regeneratable, stay local) ---
+renders/
+shorts/
+music/
+images/
+# Thumbnails are small JPGs — KEEP in repo for portability
+
+# --- logs / OS junk ---
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- editor junk ---
+.vscode/
+.idea/
+*.swp
+*~
