@@ -175,6 +175,21 @@ You set down your quill. You breathe. You stay.`,
     shTags: ['aesthetic','ambient','ambient shorts','cozy','dark academia','fantasy','fantasy mashup','harry potter','hogwarts','las vegas','vegas','lo-fi','lofi shorts','pov','realm blender','relaxing','shorts','study music','study music shorts','study with me'],
     hashtags: '#HarryPotter #Hogwarts #LasVegas #Fantasy',
   },
+  'castle-black-library': {
+    place: 'Castle Black Library', lfHours: 1,
+    shTitle: 'POV: A Library at Castle Black #Shorts',
+    shHook: 'Snow, candlelight, the Wall outside. Would you study here?',
+    lfStory: `The fires are low, and the snow hasn't stopped.
+
+The great hall has been turned over to the books — old leather spines on long oak tables, iron candelabras burning slow, fur throws folded on the wooden benches. A brass desk lamp glows warm over an open book.
+
+Outside the tall arched window, the Wall rises into the night — colossal ice cliffs stretching as far as you can see, dark pines below, snow falling thick and quiet. A few small torches flicker along the gate.
+
+You settle in by the candle. You breathe. You stay.`,
+    lfTags: ['1 hour ambient','ambient','calm music','concentration music','cozy','dark academia','deep focus','fantasy ambient','focus music','game of thrones ambient','castle black','the wall','nights watch','snow ambient','realm blender','relaxing','sleep music','study music','study with me'],
+    shTags: ['aesthetic','ambient','ambient shorts','cozy','dark academia','fantasy','fantasy mashup','game of thrones','castle black','the wall','nights watch','snow','lo-fi','lofi shorts','pov','realm blender','relaxing','shorts','study music','study music shorts','study with me'],
+    hashtags: '#GameOfThrones #CastleBlack #TheWall #Fantasy',
+  },
   'hogwarts-express-tattoo': {
     place: 'Hogwarts Express Tattoo Parlor', lfHours: 1,
     shTitle: 'POV: A Tattoo Parlor on the Hogwarts Express #Shorts',

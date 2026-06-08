@@ -23,6 +23,7 @@ const THEMES = {
   'rivendell-gym':         { location: 'GYM IN RIVENDELL',            vibe: 'ELVEN GAINS.',                      question: 'WHAT IS YOUR SPLIT?',        thumb: 'Rivendell × Gym' },
   'batcave-pizza':         { location: 'PIZZA IN THE BATCAVE',        vibe: 'DEEP. DARK. DELICIOUS.',            question: 'WHAT ARE YOU ORDERING?',     thumb: 'Batcave × Pizza' },
   'castle-black-spa':      { location: 'A SPA AT CASTLE BLACK',       vibe: 'SNOW. STEAM. SILENCE.',             question: 'WOULD YOU RELAX HERE?',      thumb: 'Castle Black × Spa' },
+  'castle-black-library':  { location: 'A LIBRARY AT CASTLE BLACK',   vibe: 'SNOW. CANDLES. THE WALL.',          question: 'WOULD YOU STUDY HERE?',      thumb: 'Castle Black × Library', shortCta: ['STAY WARM', 'SUB FOR MORE COZY'] },
   'dragonstone-karaoke':   { location: 'KARAOKE AT DRAGONSTONE',      vibe: 'NEON. DRAGONS. ENCORE.',            question: 'WHAT IS YOUR SONG?',         thumb: 'Dragonstone × Karaoke' },
   'jabba-nail-salon':      { location: 'NAIL SALON IN JABBA’S PALACE', vibe: 'SLOW. SLIMY. STYLISH.',        question: 'WOULD YOU BOOK IN?',         thumb: "Jabba's Palace × Nail Salon" },
   'hogwarts-tokyo':        { location: 'HOGWARTS IN TOKYO AT 3AM',    vibe: 'RAIN. NEON. MAGIC.',                question: 'WOULD YOU STUDY HERE?',      thumb: 'Hogwarts × Tokyo' },
