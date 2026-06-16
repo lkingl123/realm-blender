@@ -130,6 +130,21 @@ You settle in. You breathe. You stay.`,
     shTags: ['aesthetic','ambient','ambient shorts','asmr','cozy','cozy cabin','cottagecore','fireplace','lo-fi','lofi shorts','mountain cabin','pov','realm blender','relaxing','shorts','sleep aesthetic','snowfall','study music','study with me','winter'],
     hashtags: '#CozyCabin #Snowfall #Fireplace #SleepMusic',
   },
+  'diagon-alley-thrift': {
+    place: 'Diagon Alley Thrift Store', lfHours: 1,
+    shTitle: 'POV: A Thrift Store in Diagon Alley #Shorts',
+    shHook: 'Old robes, old magic. What would you buy?',
+    lfStory: `You opened the wrong door.
+
+The cobblestones still wind crooked between the leaning shops. The signs still creak in the wind. The lanterns still burn warm against the day's quiet.
+
+But this little shop is full of old wizarding things — Hogwarts house robes in every color, pointed hats stacked on shelves, scarves and second-hand spellbooks, a barrel of mismatched wands by the counter. Dust motes drift in the afternoon light.
+
+You step inside out of the alley. You breathe. You stay.`,
+    lfTags: ['1 hour ambient','ambient','calm music','concentration music','cozy','dark academia','deep focus','fantasy ambient','focus music','harry potter ambient','diagon alley','hogwarts','thrift','vintage ambient','realm blender','relaxing','sleep music','study music','study with me'],
+    shTags: ['aesthetic','ambient','ambient shorts','cozy','dark academia','fantasy','fantasy mashup','harry potter','diagon alley','hogwarts','thrift','vintage','lo-fi','lofi shorts','pov','realm blender','relaxing','shorts','study music','study music shorts','study with me'],
+    hashtags: '#HarryPotter #DiagonAlley #Thrift #Fantasy',
+  },
   'diagon-alley-birdshop': {
     place: 'Diagon Alley Bird Shop', lfHours: 1,
     shTitle: 'POV: A Bird Shop in Diagon Alley #Shorts',
